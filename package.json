@@ -2,8 +2,6 @@
   "name": "now-ui-kit-react",
   "version": "1.5.2",
   "private": true,
-  
-  "homepage": "https://contreras-examen.netlify.app",
   "dependencies": {
     "ajv": "^8.17.1",
     "ajv-keywords": "^5.1.0",
