@@ -3,7 +3,7 @@
   "version": "1.5.2",
   "private": true,
   
-  "homepage": "https://Jca-080896.github.io/contreras_examen_parcial1",
+  "homepage": "https://contreras-examen.netlify.app",
   "dependencies": {
     "ajv": "^8.17.1",
     "ajv-keywords": "^5.1.0",
