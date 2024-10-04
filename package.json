@@ -1,7 +1,6 @@
 {
   "name": "now-ui-kit-react",
   "version": "1.5.2",
- "homepage":"https://Jca-080896.github.io/contreras_examen_parcial1",
   "private": true,
   "dependencies": {
     "ajv": "^8.17.1",
